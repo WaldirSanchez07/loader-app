@@ -1,0 +1,30 @@
+ion-card {
+  margin: 1rem 0.5rem;
+  border-radius: 16px;
+  background-color: #f8f8f8;
+  box-shadow: rgba(0, 0, 0, .1) 0 1px 2px 0;
+}
+
+ion-card-header {
+  flex-direction: row;
+  gap: 1rem;
+}
+
+ion-card-subtitle {
+  text-transform: none;
+  font-size: 12px;
+  font-weight: 400;
+  margin-top: 4px;
+}
+
+ion-card-title {
+  font-size: 16px;
+  font-weight: 500;
+}
+
+ion-card-content {
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  gap: 4px;
+}

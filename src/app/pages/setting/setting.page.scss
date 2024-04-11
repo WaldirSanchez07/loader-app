@@ -1,0 +1,18 @@
+ion-img {
+  width: 32px;
+  height: 32px;
+  margin: auto;
+  display: grid;
+  place-content: center;
+  height: 100%;
+}
+
+.form-header {
+  margin-bottom: 0.5rem;
+}
+
+.form-header h4 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 0;
+}
